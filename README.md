@@ -1,4 +1,4 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-URL-HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sg-weather-pipeline-ccayj2rylg39e4kbdbua4g.streamlit.app/)
 
 # 🇸🇬 Real-Time Singapore Weather Pipeline
 
