@@ -1,3 +1,5 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-URL-HERE)
+
 # 🇸🇬 Real-Time Singapore Weather Pipeline
 
 A professional data engineering project that demonstrates a full **ETL (Extract, Transform, Load)** workflow using real-time government data.
