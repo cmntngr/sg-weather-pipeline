@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9416e6ad-232f-489a-9c73-13cb7d6fa287" name="Changes" comment="fixed keyerror">
+    <list default="true" id="9416e6ad-232f-489a-9c73-13cb7d6fa287" name="Changes" comment="triggering actions">
       <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -86,11 +86,20 @@
       <option name="project" value="LOCAL" />
       <updated>1771562782204</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="triggering actions">
+      <option name="closed" value="true" />
+      <created>1771565629072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771565629072</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed keyerror" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed keyerror" />
+    <MESSAGE value="triggering actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="triggering actions" />
   </component>
 </project>
