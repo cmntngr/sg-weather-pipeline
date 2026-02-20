@@ -34,4 +34,4 @@ st.title("🇸🇬 Real-Time Singapore Temperature")
 if st.button('Refresh Data'):
     df = get_weather()
     st.map(df)  # Shows a map of SG with temperature locations
-    st.table(df)
+    st.dataframe(df, use_container_width=True)
